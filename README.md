@@ -1,1 +1,2 @@
 # handwriting
+This website will have AI recognize your handwriting. It will have a neural network to recognize individual characters of the English alphabet. It is based on the tutorial in [Crash Course AI #5.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLjfKWwv6PAxVGSDABHbFUJjcQkPEHegQIFxAH&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6nGCGYWMObE&usg=AOvVaw3_BnUyRwspgGBsXOauM14b&opi=89978449)
